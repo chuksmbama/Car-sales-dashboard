@@ -9,7 +9,8 @@
 <a href="https://github.com/chuksmbama/Car-sales-dashboard/blob/main/Car%20Sales.xlsx%20-%20car_data.xlsx">Dataset</a>
 
 ## Dashboard 
-<img width="1589" height="670" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/7347e789-f551-4090-b4f6-4cc1c71a56e8" />
+<img width="1635" height="693" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/59e101b4-464b-41db-8391-b583f2dcbf26" />
+
 
 ## Conclusion
 - Sales have been stable over the three years
